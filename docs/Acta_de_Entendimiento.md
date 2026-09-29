@@ -1,59 +1,55 @@
-# ACTA DE ENTENDIMIENTO
+# Acta de Entendimiento
 
-## Proyecto de gestión de PQRS
-
-**Universidad:** Universidad de Antioquia
-**Programa:** Ingeniería Industrial
-**Asignatura:** Algoritmia y Programación
+**Proyecto:** Pawlogic - Gestor de PQRS para MEPEGA
+**Curso:** Algoritmia y Programación
 **Docente:** Victor Hugo Mercado Ramos
+**Fecha de la reunión:** COMPLETAR
+**Lugar o medio de la reunión:** COMPLETAR
 
-**Fecha:** [Fecha de la reunión]
+## 1. Integrantes presentes
 
-## 1. Objetivo del acta
+| Nombre | Programa académico |
+|--------|--------------------|
+| Maryerlis Herrera De Arcos | Ingeniería Industrial |
+| Valeria López Silva | Ingeniería Industrial |
+| Jehren Esther Padilla Villalba | Ingeniería Industrial |
+| Isabella Barros Correa  | Ingeniería Industrial |
 
-Mediante la presente acta, los integrantes del equipo manifiestan que conocen y comprenden el proyecto académico de gestión de PQRS y acuerdan trabajar de manera conjunta para cumplir con los objetivos y actividades establecidos para el proyecto.
+## 2. Objetivo general del grupo
 
-## 2. Comprensión del proyecto
+Desarrollar en Python un gestor de PQRS por consola para el Movimiento Estudiantil de Perritos y Gaticos (MEPEGA), que permita registrar, validar, almacenar y consultar peticiones, quejas, reclamos y sugerencias, cumpliendo las entregas del curso.
 
-El equipo comprende que el proyecto busca diseñar un sistema para gestionar Peticiones, Quejas, Reclamos y Sugerencias (PQRS), permitiendo organizar la información de las solicitudes, facilitar su seguimiento y generar información útil para su consulta y análisis.
+## 3. Objetivos específicos
 
-El proyecto será desarrollado de acuerdo con las indicaciones establecidas por el docente y con las actividades definidas para cada etapa.
+- Entender el problema de MEPEGA y los requisitos que pide el docente.
+- Cumplir cada entrega en las fechas establecidas: Entrega 1 el 30 de septiembre y Entrega 2 el 18 de noviembre.
+- Mantener el repositorio de GitHub organizado, con las carpetas `src`, `docs`, `images` y `data`.
+- Que todas las integrantes comprendan el código y la documentación, para poder responder en la sustentación.
 
-## 3. Objetivos del equipo
+## 4. Expectativas del grupo
 
-Como equipo nos comprometemos a:
+- Asistir a las reuniones acordadas y avisar con anticipación si alguien no puede.
+- Cumplir con las tareas asignadas en los plazos definidos.
+- Comunicarse con respeto y resolver los desacuerdos dentro del equipo.
+- Compartir el conocimiento para que ninguna integrante dependa de otra en la sustentación.
+- Registrar los avances en GitHub con cambios frecuentes.
 
-* Participar activamente en el desarrollo del proyecto.
-* Cumplir con las tareas asignadas y las fechas acordadas.
-* Mantener una comunicación adecuada entre los integrantes.
-* Revisar y comprender las diferentes partes del proyecto.
-* Apoyarnos cuando alguno de los integrantes tenga dificultades.
-* Cumplir con las entregas y actividades establecidas por el docente.
+## 5. Expectativas de cada integrante
 
-## 4. Acuerdos iniciales
+| Integrante | Qué espera del proyecto | Qué se compromete a aportar |
+|------------|-------------------------|-----------------------------|
+| Isabella Barros Correa | COMPLETAR | COMPLETAR |
+| Valeria López Silva | COMPLETAR | COMPLETAR |
+| Jehren Esther Padilla Villalba | COMPLETAR | COMPLETAR |
+| Maryerlis Herrera de Arcos | COMPLETAR | COMPLETAR |
 
-Los integrantes acuerdan trabajar de manera colaborativa y mantener comunicación mediante los canales definidos por el equipo.
+## 6. Firmas
 
-La distribución definitiva de responsabilidades y tareas será acordada entre todos los integrantes durante la reunión de organización del proyecto.
+Con su firma, las integrantes confirman que participaron en la reunión y están de acuerdo con lo escrito en esta acta.
 
-## 5. Integrantes
-
-| Nombre            | Programa              | Rol           |
-| ----------------- | --------------------- | ------------- |
-| Maryerlis Herrera | Ingeniería Industrial | [Por definir] |
-| Isabella Barros Correa    | Ingeniería Industrial | [Por definir] |
-| Valeria López Silva    | Ingeniería Industrial | [Por definir] |
-| Jehren Esther Padilla Villalba    | Ingeniería Industrial | [Por definir] |
-
-## 6. Compromiso
-
-Los integrantes manifiestan su disposición para participar en el proyecto, cumplir con las responsabilidades acordadas y contribuir al logro de los objetivos establecidos.
-
-## 7. Firmas
-
-| Nombre            | Firma                |
-| ----------------- | -------------------- |
-| Maryerlis Herrera | ____________________ |
-| [Integrante 2]    | ____________________ |
-| [Integrante 3]    | ____________________ |
-| [Integrante 4]    | ____________________ |
+| Nombre | Firma | Fecha |
+|--------|-------|-------|
+| Isabella Barros Correa | | |
+| Valeria López Silva | | |
+| Jehren Esther Padilla Villalba | | |
+| Maryerlis Herrera de Arcos | | |

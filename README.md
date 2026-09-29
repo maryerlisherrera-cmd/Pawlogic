@@ -8,14 +8,28 @@
 
 | Nombre | Programa académico | Rol |
 |--------|--------------------|-----|
-| Isabella Barros Correa | Ingeniería Industrial | Por definir |
+| Maryerlis Herrera De Arcos | Ingeniería Industrial | Por definir |
 | Valeria López Silva | Ingeniería Industrial | Por definir |
 | Jehren Esther Padilla Villalba | Ingeniería Industrial | Por definir |
-| Maryerlis Herrera de Arcos | Ingeniería Industrial | Por definir |
+| Isabella Barros Correa | Ingeniería Industrial | Por definir |
 
 ## 2. Vínculos académicos y descripción
 
-Pendiente: habilidades y fortalezas de cada integrante.
+### Maryerlis Herrera de Arcos (líder del equipo)
+- **Programa académico:** Ingeniería Industrial
+- **Habilidades y fortalezas:** buena para exponer y comunicarse con claridad. Maneja Excel, lo que ayuda con la parte de estadísticas del proyecto.
+
+### Isabella Barros Correa
+- **Programa académico:** Ingeniería Industrial
+- **Habilidades y fortalezas:** se le facilita hacer cuentas y maneja Excel, por lo que puede apoyar el presupuesto y los cálculos. Es puntual cuando su disponibilidad se lo permite.
+
+### Valeria López Silva
+- **Programa académico:** Ingeniería Industrial
+- **Habilidades y fortalezas:** buena para organizar y redactar, lo que aporta a la documentación. Se defiende en Excel y se comunica bien.
+
+### Jehren Esther Padilla Villalba
+- **Programa académico:** Ingeniería Industrial
+- **Habilidades y fortalezas:** se defiende en Excel, es puntual y expone bien.
 
 ## 3. Nombre del proyecto y detalles
 
