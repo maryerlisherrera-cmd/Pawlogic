@@ -41,9 +41,9 @@ La distribución definitiva de responsabilidades y tareas será acordada entre t
 | Nombre            | Programa              | Rol           |
 | ----------------- | --------------------- | ------------- |
 | Maryerlis Herrera | Ingeniería Industrial | [Por definir] |
-| [Integrante 2]    | Ingeniería Industrial | [Por definir] |
-| [Integrante 3]    | Ingeniería Industrial | [Por definir] |
-| [Integrante 4]    | Ingeniería Industrial | [Por definir] |
+| Isabella Barros Correa    | Ingeniería Industrial | [Por definir] |
+| Valeria López Silva    | Ingeniería Industrial | [Por definir] |
+| Jehren Esther Padilla Villalba    | Ingeniería Industrial | [Por definir] |
 
 ## 6. Compromiso
 
