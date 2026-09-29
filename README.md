@@ -90,13 +90,40 @@ Reemplazar el registro manual de PQRS de MEPEGA por un sistema en Python, ordena
 
 ## 6. Especificación de requisitos
 
+## 6. Especificación de requisitos
+
 ### Requisitos funcionales
 
-Pendiente.
+| Código | Requisito |
+|--------|-----------|
+| RF-01 | El sistema exige iniciar sesión antes de mostrar el menú principal. El acceso se hace con usuario o correo institucional y contraseña. |
+| RF-02 | El sistema verifica las credenciales contra un archivo de usuarios autorizados, y solo permite el ingreso a usuarios activos. |
+| RF-03 | Después de 3 intentos fallidos, el sistema bloquea el acceso por un tiempo definido por el equipo y muestra ese tiempo en pantalla. |
+| RF-04 | Al iniciar sesión, el sistema guarda los datos del usuario activo y los vincula automáticamente a cada PQRS que registra. |
+| RF-05 | El sistema permite registrar una PQRS con los datos del solicitante (nombre, documento, teléfono, correo y dirección), la información de la solicitud (tipo, fecha, canal, asunto y descripción), el tipo de mascota y el campus relacionado. |
+| RF-06 | El sistema valida cada dato antes de guardarlo (longitud, formato, valores permitidos y fechas no futuras) y avisa cuál dato es inválido. |
+| RF-07 | El sistema asigna un ID entero consecutivo y sin repetir a cada PQRS, con una secuencia independiente para cada archivo. Los registros nuevos continúan la numeración de las bases entregadas. |
+| RF-08 | El sistema calcula la fecha máxima de respuesta sumando 30 días calendario a la fecha de radicación. |
+| RF-09 | Toda PQRS inicia en estado "Registrada" y solo puede avanzar en este orden: Registrada, En proceso, Solucionada. |
+| RF-10 | El sistema guarda las PQRS en cuatro archivos planos independientes: Peticion.txt, Queja.txt, Reclamo.txt y Sugerencia.txt. |
+| RF-11 | El sistema imprime un radicado en texto, con marco ASCII y ancho fijo de 120 caracteres. No incluye la descripción detallada y muestra "N/A" si no hay dirección. |
+| RF-12 | El sistema permite consultar el estado de las PQRS y verlas con el formato del radicado. |
+| RF-13 | El sistema calcula estadísticas: el promedio de días de respuesta, la distribución por tipo de mascota, canal y campus, el porcentaje de PQRS solucionadas y las PQRS próximas a vencer o vencidas. |
+| RF-14 | El sistema permite exportar los resultados a un archivo plano. |
 
 ### Requisitos no funcionales
 
-Pendiente.
+| Código | Categoría | Requisito |
+|--------|-----------|-----------|
+| RNF-01 | Usabilidad | El programa usa un menú de consola claro, con opciones numeradas y mensajes de error fáciles de entender. |
+| RNF-02 | Modularidad | El código se separa por responsabilidad: validaciones.py (validación de datos), archivos.py (lectura y escritura de los archivos) y reportes.py (estadísticas). |
+| RNF-03 | Seguridad | El acceso está protegido con login obligatorio, límite de intentos y bloqueo temporal. La contraseña no se muestra al escribirla. |
+| RNF-04 | Integridad de datos | Ningún registro se guarda si un dato no cumple las validaciones, y no hay consecutivos repetidos. |
+| RNF-05 | Fiabilidad | Un dato incorrecto no cierra el programa: el sistema avisa y vuelve a pedirlo. |
+| RNF-06 | Compatibilidad | El programa corre en cualquier computador con Python 3 instalado, sin necesidad de internet. |
+| RNF-07 | Rendimiento | El sistema responde de forma inmediata con miles de registros por archivo. |
+| RNF-08 | Mantenibilidad | El código está comentado y el repositorio sigue la estructura src, docs, images y data. |
+| RNF-09 | Codificación | Los archivos usan UTF-8, para guardar bien tildes y la letra ñ. |
 
 ## 7. Plan de proyecto
 
