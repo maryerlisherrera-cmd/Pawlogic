@@ -70,7 +70,7 @@ Con su firma, las integrantes aceptan lo escrito en esta acta.
 
 | Nombre | Firma | Fecha |
 |--------|-------|-------|
-| Maryerlis Herrera de Arcos (líder) |  | |
+| Maryerlis Herrera de Arcos (líder) |![alt text](image.png)  | |
 | Isabella Barros Correa | | |
 | Valeria López Silva | | |
 | Jehren Esther Padilla Villalba | | |
