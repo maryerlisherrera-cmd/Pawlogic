@@ -129,8 +129,76 @@ Reemplazar el registro manual de PQRS de MEPEGA por un sistema en Python, ordena
 
 ### Actividades y cronograma (Diagrama de Gantt)
 
-Pendiente.
+## 7. Plan de proyecto
+
+### Actividades
+
+| # | Actividad | Semanas | Fechas |
+|---|-----------|---------|--------|
+| 1 | Documentos de la Entrega 1, actas y repositorio | 9 | 28 sep - 30 sep |
+| 2 | Diseño del algoritmo y de los archivos planos | 10 | 5 oct - 11 oct |
+| 3 | Módulo de login (3 intentos y bloqueo) | 10 - 11 | 5 oct - 18 oct |
+| 4 | validaciones.py | 11 | 12 oct - 18 oct |
+| 5 | archivos.py (4 archivos y consecutivos) | 11 - 12 | 12 oct - 25 oct |
+| 6 | Registro de PQRS y radicado de 120 caracteres | 12 - 13 | 19 oct - 1 nov |
+| 7 | Consulta y cambio de estado | 13 | 26 oct - 1 nov |
+| 8 | reportes.py (estadísticas) | 13 - 14 | 26 oct - 8 nov |
+| 9 | Dashboard en Power BI (mínimo 3 páginas) | 14 - 15 | 2 nov - 15 nov |
+| 10 | Pruebas y correcciones | 14 - 15 | 2 nov - 10 nov |
+| 11 | Manual de usuario y plan de versionado | 14 - 15 | 2 nov - 10 nov |
+| 12 | Programa completo listo para revisión del docente | 15 | 11 nov |
+| 13 | Preparación de la sustentación final | 15 - 16 | 9 nov - 17 nov |
+| 14 | Entrega 2 y sustentación | 16 | 18 nov |
+
+Los responsables de cada actividad están en el [Acta de Responsabilidad](docs/acta_responsabilidad.md).
+
+### Diagrama de Gantt
+
+```mermaid
+gantt
+    title Cronograma del proyecto Pawlogic
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d/%m
+    section Entrega 1
+    Documentos, actas y repositorio     :done, a1, 2026-09-28, 2026-09-30
+    Sustentación Entrega 1              :milestone, m1, 2026-10-01, 0d
+    section Diseño y código
+    Diseño del algoritmo y archivos     :a2, 2026-10-05, 2026-10-11
+    Módulo de login                     :a3, 2026-10-05, 2026-10-18
+    validaciones.py                     :a4, 2026-10-12, 2026-10-18
+    archivos.py y consecutivos          :a5, 2026-10-12, 2026-10-25
+    Registro de PQRS y radicado         :a6, 2026-10-19, 2026-11-01
+    Consulta y cambio de estado         :a7, 2026-10-26, 2026-11-01
+    reportes.py estadísticas            :a8, 2026-10-26, 2026-11-08
+    section Análisis y cierre
+    Dashboard en Power BI               :a9, 2026-11-02, 2026-11-15
+    Pruebas y correcciones              :a10, 2026-11-02, 2026-11-10
+    Manual de usuario y versionado      :a11, 2026-11-02, 2026-11-10
+    Programa listo para revisión        :milestone, m2, 2026-11-11, 0d
+    Preparación de la sustentación      :a12, 2026-11-09, 2026-11-17
+    Entrega 2 y sustentación            :milestone, m3, 2026-11-18, 0d
+```
 
 ### Presupuesto
 
-Pendiente.
+El proyecto no se paga en dinero sino en tiempo de práctica de formación. Cada integrante invierte 50 horas, valoradas a la tarifa de una práctica profesional equivalente al salario mínimo.
+
+**Valores de referencia (2026):**
+
+| Concepto | Cálculo | Valor |
+|----------|---------|-------|
+| Salario mínimo mensual (SMLMV) | Decreto 1469 de 2025 | $1.750.905 |
+| Valor por día | SMLMV ÷ 30 | $58.363 |
+| Valor por hora | Valor por día ÷ 8 horas | $7.295 |
+
+**Costo por integrante:**
+
+| Integrante | Horas | Valor por hora | Costo |
+|------------|-------|----------------|-------|
+| Maryerlis Herrera de Arcos | 50 | $7.295 | $364.750 |
+| Isabella Barros Correa | 50 | $7.295 | $364.750 |
+| Valeria López Silva | 50 | $7.295 | $364.750 |
+| Jehren Esther Padilla Villalba | 50 | $7.295 | $364.750 |
+| **Total** | **200** | | **$1.459.000** |
+
+Las horas de cada integrante pueden variar según su disponibilidad. Si cambian, el costo se recalcula como horas × $7.295.
