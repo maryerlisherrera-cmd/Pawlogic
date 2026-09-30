@@ -49,14 +49,7 @@ Con su firma, las integrantes confirman que participaron en la reunión y están
 
 | Nombre | Firma | Fecha |
 |--------|-------|-------|
-<<<<<<< HEAD
 | Isabella Barros Correa |<img src="firma isabella.jpeg" width="100">|30 de septiembre de 2026 |
 | Valeria López Silva |<img src="firma valeria.png" width="100">|30 de septiembre de 2026 |
 | Jehren Esther Padilla Villalba | <img src="firma jehren.jpeg" width="100">|30 de septiembre de 2026 |
 | Maryerlis Herrera de Arcos |<img src="firma mayerlis.jpeg" width="100"> |30 de septiembre de 2026 |
-=======
-| Isabella Barros Correa | | |
-| Valeria López Silva | | |
-| Jehren Esther Padilla Villalba | | |
-| Maryerlis Herrera de Arcos |![alt text](image-1.png) | |
->>>>>>> 82fe8db896f200ddfe7e813c9d45a420ebeff45f
