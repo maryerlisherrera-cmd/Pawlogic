@@ -28,10 +28,10 @@
 
 | Aspecto | Acuerdo |
 |---------|---------|
-| Canal principal | COMPLETAR (por ejemplo, un grupo de WhatsApp) |
-| Reuniones | COMPLETAR (por ejemplo, presenciales o por videollamada) |
-| Frecuencia de reuniones | COMPLETAR (por ejemplo, una vez por semana) |
-| Tiempo máximo para responder mensajes | COMPLETAR (por ejemplo, 24 horas) |
+| Canal principal | Grupo de WhatsApp del equipo |
+| Reuniones | Por videollamada (Google Meet) o Presencial en la Universidad cuando coincidan|
+| Frecuencia de reuniones |Una vez por semana y una reunion extra antes de la entrega |
+| Tiempo máximo para responder mensajes | 24 horas |
 | Aviso de inasistencia | Se avisa al grupo con anticipación y se da una razón |
 
 ## 4. Reuniones de seguimiento
@@ -52,7 +52,7 @@
 |-----------|--------------|
 | Incumplimiento de una tarea por primera vez | Llamado de atención verbal en el grupo |
 | Incumplimiento repetido | Llamado de atención por escrito y reasignación de la tarea |
-| No asistir a reuniones sin avisar | COMPLETAR |
+| No asistir a reuniones sin avisar |La primera vez, llamado de atencion verbal. La segunda, queda por escrito y se reasigna una tarea de esa semana |
 | Incumplimiento grave y reiterado | Se informa al docente |
 
 ## 7. Exclusión de integrantes
@@ -71,7 +71,7 @@ Con su firma, las integrantes aceptan lo escrito en esta acta.
 
 | Nombre | Firma | Fecha |
 |--------|-------|-------|
-| Maryerlis Herrera de Arcos (líder) | | |
+| Maryerlis Herrera de Arcos (líder) |![alt text](image.png)  | |
 | Isabella Barros Correa | | |
 | Valeria López Silva | | |
 | Jehren Esther Padilla Villalba | | |
