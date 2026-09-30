@@ -11,8 +11,9 @@
 |--------|--------------------|
 | Maryerlis Herrera de Arcos (líder) | Ingeniería Industrial |
 | Isabella Barros Correa | Ingeniería Industrial |
-| Valeria López Silva | Ingeniería Industrial |
+| Valeria López Silva (Planeacion y presupuestos)| Ingeniería Industrial |
 | Jehren Esther Padilla Villalba | Ingeniería Industrial |
+
 
 ## 2. Metodología de trabajo
 
