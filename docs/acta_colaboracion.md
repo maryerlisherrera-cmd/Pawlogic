@@ -70,7 +70,7 @@ Con su firma, las integrantes aceptan lo escrito en esta acta.
 
 | Nombre | Firma | Fecha |
 |--------|-------|-------|
-| Maryerlis Herrera de Arcos (líder) |  | |
-| Isabella Barros Correa | | |
-| Valeria López Silva | | |
-| Jehren Esther Padilla Villalba | | |
+| Maryerlis Herrera de Arcos (líder) |  | 30 de Septiembre de 2026 |
+| Isabella Barros Correa | |30 de Septiembre de 2026 |
+| Valeria López Silva | | 30 de Septiembre de 2026 |
+| Jehren Esther Padilla Villalba | | 30 de Septiembre de 2026 |
