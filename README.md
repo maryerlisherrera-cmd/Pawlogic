@@ -8,17 +8,10 @@
 
 | Nombre | Programa académico | Rol |
 |--------|--------------------|-----|
-<<<<<<< Updated upstream
-| Maryerlis Herrera De Arcos | Ingeniería Industrial | Líder del equipo |
+ | Maryerlis Herrera de Arcos | Ingeniería Industrial | Líder del equipo y gestora del repositorio |
 | Valeria López Silva | Ingeniería Industrial | Responsable de planeación y presupuesto |
 | Jehren Esther Padilla Villalba | Ingeniería Industrial | Responsable de documentación |
 | Isabella Barros Correa | Ingeniería Industrial | Responsable de imagen y presentación |
-=======
-| Maryerlis Herrera De Arcos | Ingeniería Industrial |Lider del equipo y gestora del repositorio |
-| Valeria López Silva | Ingeniería Industrial | Responsable de planeacion y presupuesto |
-| Jehren Esther Padilla Villalba | Ingeniería Industrial | Responsable de documentacion |
-| Isabella Barros Correa | Ingeniería Industrial | Responsable de imagen y presentacion |
->>>>>>> Stashed changes
 
 ## 2. Vínculos académicos y descripción
 
@@ -97,8 +90,6 @@ Reemplazar el registro manual de PQRS de MEPEGA por un sistema en Python, ordena
 
 ## 6. Especificación de requisitos
 
-## 6. Especificación de requisitos
-
 ### Requisitos funcionales
 
 | Código | Requisito |
@@ -131,10 +122,6 @@ Reemplazar el registro manual de PQRS de MEPEGA por un sistema en Python, ordena
 | RNF-07 | Rendimiento | El sistema responde de forma inmediata con miles de registros por archivo. |
 | RNF-08 | Mantenibilidad | El código está comentado y el repositorio sigue la estructura src, docs, images y data. |
 | RNF-09 | Codificación | Los archivos usan UTF-8, para guardar bien tildes y la letra ñ. |
-
-## 7. Plan de proyecto
-
-### Actividades y cronograma (Diagrama de Gantt)
 
 ## 7. Plan de proyecto
 
