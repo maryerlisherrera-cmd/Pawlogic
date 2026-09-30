@@ -75,7 +75,7 @@ Con su firma, cada integrante acepta las tareas y los plazos que le corresponden
 
 | Nombre | Firma | Fecha |
 |--------|-------|-------|
-| Maryerlis Herrera de Arcos (líder) | | |
-| Isabella Barros Correa | | |
-| Valeria López Silva | | |
-| Jehren Esther Padilla Villalba | | |
+| Maryerlis Herrera de Arcos (líder) |![alt text](image-4.png) | 30 de septiembre 2026 |
+| Isabella Barros Correa |![alt text](image-3.png) | 30 de septiembre 2026|
+| Valeria López Silva |![alt text](image-1.png) | 30 de septiembre 2026|
+| Jehren Esther Padilla Villalba |![alt text](image-2.png) |30 de septiembre 2026 |
