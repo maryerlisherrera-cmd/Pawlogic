@@ -19,15 +19,15 @@
 - **Programa académico:** Ingeniería Industrial
 - **Habilidades y fortalezas:** buena para exponer y comunicarse con claridad. Maneja Excel, lo que ayuda con la parte de estadísticas del proyecto.
 
-### Isabella Barros Correa
+### Isabella Barros Correa (Responsable de imagen y presentación)
 - **Programa académico:** Ingeniería Industrial
 - **Habilidades y fortalezas:** se le facilita hacer cuentas y maneja Excel, por lo que puede apoyar el presupuesto y los cálculos. Es puntual cuando su disponibilidad se lo permite.
 
-### Valeria López Silva
+### Valeria López Silva (Responsable de planeación y presupuesto)
 - **Programa académico:** Ingeniería Industrial
 - **Habilidades y fortalezas:** buena para organizar y redactar, lo que aporta a la documentación. Se defiende en Excel y se comunica bien.
 
-### Jehren Esther Padilla Villalba
+### Jehren Esther Padilla Villalba (Responsable de documentación)
 - **Programa académico:** Ingeniería Industrial
 - **Habilidades y fortalezas:** se defiende en Excel, es puntual y expone bien.
 
