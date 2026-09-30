@@ -8,10 +8,10 @@
 
 | Nombre | Programa académico | Rol |
 |--------|--------------------|-----|
-| Maryerlis Herrera De Arcos | Ingeniería Industrial | Por definir |
-| Valeria López Silva | Ingeniería Industrial | Por definir |
-| Jehren Esther Padilla Villalba | Ingeniería Industrial | Por definir |
-| Isabella Barros Correa | Ingeniería Industrial | Por definir |
+| Maryerlis Herrera De Arcos | Ingeniería Industrial | Líder del equipo |
+| Valeria López Silva | Ingeniería Industrial | Responsable de planeación y presupuesto |
+| Jehren Esther Padilla Villalba | Ingeniería Industrial | Responsable de documentación |
+| Isabella Barros Correa | Ingeniería Industrial | Responsable de imagen y presentación |
 
 ## 2. Vínculos académicos y descripción
 
