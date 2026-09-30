@@ -52,4 +52,4 @@ Con su firma, las integrantes confirman que participaron en la reunión y están
 | Isabella Barros Correa | | |
 | Valeria López Silva | | |
 | Jehren Esther Padilla Villalba | | |
-| Maryerlis Herrera de Arcos | | |
+| Maryerlis Herrera de Arcos |![alt text](image-1.png) | |
