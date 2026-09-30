@@ -10,14 +10,10 @@
 | Nombre | Programa académico | Rol en el equipo |
 |--------|--------------------|------------------|
 | Maryerlis Herrera de Arcos | Ingeniería Industrial | Líder del equipo |
-| Isabella Barros Correa | Ingeniería Industrial | Imagen y presentacion
+| Isabella Barros Correa | Ingeniería Industrial | Imagen y presentacion |
+|Valeria López Silva | Ingeniería Industrial | Planeacion y presupuesto |
+| Jehren Esther Padilla Villalba | Ingeniería Industrial | Documentacion | 
 
-
- |
-| Valeria López Silva | Ingeniería Industrial | Planeacion y presupuesto 
-
-  |
-| Jehren Esther Padilla Villalba | Ingeniería Industrial | COMPLETAR |
 
 ## 2. Fechas oficiales
 
