@@ -14,7 +14,8 @@
 
 
  |
-| Valeria López Silva | Ingeniería Industrial | Planeacion y presupuesto
+| Valeria López Silva | Ingeniería Industrial | Planeacion y presupuesto 
+
   |
 | Jehren Esther Padilla Villalba | Ingeniería Industrial | COMPLETAR |
 
