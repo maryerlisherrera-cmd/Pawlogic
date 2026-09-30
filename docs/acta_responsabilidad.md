@@ -12,6 +12,7 @@
 | Maryerlis Herrera de Arcos | Ingeniería Industrial | Líder del equipo |
 | Isabella Barros Correa | Ingeniería Industrial | Imagen y presentacion
 
+
  |
 | Valeria López Silva | Ingeniería Industrial | Planeacion y presupuesto
   |
