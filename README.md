@@ -8,10 +8,17 @@
 
 | Nombre | Programa académico | Rol |
 |--------|--------------------|-----|
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+| Maryerlis Herrera De Arcos | Ingeniería Industrial | Líder del equipo |
+=======
 | Maryerlis Herrera de Arcos | Ingeniería Industrial | Líder del equipo y gestora del repositorio |
+>>>>>>> 592a2fa30bbca5080afada8595bdac32dfa0f2f2
 | Valeria López Silva | Ingeniería Industrial | Responsable de planeación y presupuesto |
 | Jehren Esther Padilla Villalba | Ingeniería Industrial | Responsable de documentación |
 | Isabella Barros Correa | Ingeniería Industrial | Responsable de imagen y presentación |
+
 
 ## 2. Vínculos académicos y descripción
 

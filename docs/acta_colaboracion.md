@@ -3,18 +3,17 @@
 **Proyecto:** Pawlogic - Gestor de PQRS para MEPEGA
 **Curso:** Algoritmia y Programación
 **Docente:** Victor Hugo Mercado Ramos
-**Fecha:** 20 de septiembre de 2026
+**Fecha de la reunión:** 27 de septiembre de 2026
+**Lugar o medio de la reunión:** Google Meet
 
 ## 1. Integrantes
 
 | Nombre | Programa académico |
 |--------|--------------------|
 | Maryerlis Herrera de Arcos (líder) | Ingeniería Industrial |
-<<<<<<< HEAD
-| Isabella Barros Correa (Responsable de imagen y presentación) | Ingeniería Industrial |
-| Valeria López Silva (Responsable de planeación y presupuesto) | Ingeniería Industrial |
-| Jehren Esther Padilla Villalba (responsable de documentación) | Ingeniería Industrial |
-
+| Valeria López Silva (Responsable de Planeacion y presupuesto) | Ingeniería Industrial |
+| Jehren Esther Padilla Villalba (Responsable de Documentacion) | Ingeniería Industrial |
+| Isabella Barros Correa (Responsable de imagen y presentacion) | Ingeniería Industrial |
 
 ## 2. Metodología de trabajo
 
@@ -23,6 +22,7 @@
 - Antes de cada entrega, todo el equipo revisa el trabajo completo.
 - Todo el material se sube al repositorio de GitHub, con cambios frecuentes y un mensaje que explique qué se hizo.
 - La líder crea y gestiona el repositorio, y las demás integrantes trabajan en él.
+- Antes de editar un archivo, cada integrante sincroniza su copia para traer lo que las demás subieron, y evita editar el mismo archivo al mismo tiempo que otra.
 - Todas las integrantes deben entender todo el proyecto, no solo su parte, porque en la sustentación el docente puede preguntarle cualquier cosa a cualquiera.
 
 ## 3. Comunicación
@@ -30,16 +30,20 @@
 | Aspecto | Acuerdo |
 |---------|---------|
 | Canal principal | Grupo de WhatsApp del equipo |
-| Reuniones | Por videollamada (Google Meet) o Presencial en la Universidad cuando coincidan|
-| Frecuencia de reuniones |Una vez por semana y una reunion extra antes de la entrega |
+| Reuniones | Por videollamada (Google Meet), o presencial en la universidad cuando coincidan |
+| Frecuencia de reuniones | Una vez por semana, y una reunión extra antes de cada entrega |
 | Tiempo máximo para responder mensajes | 24 horas |
 | Aviso de inasistencia | Se avisa al grupo con anticipación y se da una razón |
 
-## 4. Reuniones de seguimiento
+## 4. Reuniones realizadas
 
-- El grupo se reúne periódicamente para revisar el avance del proyecto.
-- En cada reunión se revisa qué se hizo, qué falta y qué dificultades hay.
-- Los acuerdos importantes se dejan por escrito.
+| Fecha | Medio | Tema |
+|-------|-------|------|
+| 19 de septiembre de 2026 | WhatsApp | Objetivos y expectativas (Acta de Entendimiento) |
+| 27 de septiembre de 2026 | Google Meet | Comunicación y normas de trabajo (esta acta) |
+| 29 de septiembre de 2026 | Google Meet | Roles y tareas (Acta de Responsabilidad) |
+
+En cada reunión de seguimiento se revisa qué se hizo, qué falta y qué dificultades hay. Los acuerdos importantes se dejan por escrito.
 
 ## 5. Resolución de conflictos
 
@@ -53,12 +57,14 @@
 |-----------|--------------|
 | Incumplimiento de una tarea por primera vez | Llamado de atención verbal en el grupo |
 | Incumplimiento repetido | Llamado de atención por escrito y reasignación de la tarea |
-| No asistir a reuniones sin avisar |La primera vez, llamado de atencion verbal. La segunda, queda por escrito y se reasigna una tarea de esa semana |
+| No asistir a reuniones sin avisar | La primera vez, llamado de atención verbal. La segunda, queda por escrito y se reasigna una tarea de esa semana |
 | Incumplimiento grave y reiterado | Se informa al docente |
 
 ## 7. Exclusión de integrantes
 
 - Una integrante solo puede ser excluida del grupo por incumplimiento grave y reiterado, después de haber recibido llamados de atención por escrito.
+- Solo se considera después de tres llamados de atención por escrito, y se informa al docente.
+- La decisión se toma entre todas las demás integrantes y el docente debe conocerla.
 - La decisión se toma entre todas las demás integrantes y se informa al docente, quien la debe conocer.
 
 ## 8. Revisión del acta
@@ -71,7 +77,7 @@ Con su firma, las integrantes aceptan lo escrito en esta acta.
 
 | Nombre | Firma | Fecha |
 |--------|-------|-------|
-| Maryerlis Herrera de Arcos (líder) |![alt text](image.png)  | |
-| Isabella Barros Correa | | |
-| Valeria López Silva | | |
-| Jehren Esther Padilla Villalba | | |
+| Maryerlis Herrera de Arcos (líder) |![alt text](image-5.png) |30 de septiembre de 2026 |
+| Valeria López Silva |![alt text](image-7.png) |30 de septiembre de 2026 |
+| Jehren Esther Padilla Villalba |![alt text](image-8.png) |30 de septiembre de 2026 |
+| Isabella Barros Correa |![alt text](image-6.png) |30 de septiembre de 2026 |
