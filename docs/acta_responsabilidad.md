@@ -3,7 +3,8 @@
 **Proyecto:** Pawlogic - Gestor de PQRS para MEPEGA
 **Curso:** Algoritmia y Programación
 **Docente:** Victor Hugo Mercado Ramos
-**Fecha:** COMPLETAR
+**Fecha:** 29 de septiembre de 2026
+
 
 ## 1. Integrantes
 
