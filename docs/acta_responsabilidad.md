@@ -3,7 +3,8 @@
 **Proyecto:** Pawlogic - Gestor de PQRS para MEPEGA
 **Curso:** Algoritmia y Programación
 **Docente:** Victor Hugo Mercado Ramos
-**Fecha:** COMPLETAR
+**Fecha:** 29 de septiembre de 2026
+
 
 ## 1. Integrantes
 
@@ -17,41 +18,40 @@
 
 ## 2. Fechas oficiales
 
-| Hito | Fecha |
+| Evento | Fecha |
 |------|-------|
 | Entrega 1 (puntos 1 a 7) | 30 de septiembre de 2026 |
 | Sustentación de la Entrega 1 | 1 de octubre de 2026 |
-| Programa completo listo para revisión del docente | COMPLETAR (el docente pide entregarlo una semana antes de la Entrega 2) |
+| Programa completo listo para revisión del docente | 11 de noviembre de 2026 |
 | Entrega 2 (todo el proyecto) | 18 de noviembre de 2026 |
 
 ## 3. Tareas de la Entrega 1
 
 | Tarea | Responsable | Plazo | Criterio de cumplimiento |
 |-------|-------------|-------|--------------------------|
-| Crear y gestionar el repositorio de GitHub con las carpetas src, docs, images y data | Maryerlis | COMPLETAR | Repositorio con las 4 carpetas y el README con formato Markdown |
-| Integrantes y habilidades (puntos 1 y 2) | Maryerlis | COMPLETAR | Datos completos y coherentes en el README |
-| Nombre y logo del proyecto (punto 3) | Jehren | COMPLETAR | Logo guardado en images/ y visible en el README |
-| Licencia del software (punto 4) | Valeria | COMPLETAR | Licencia elegida, justificada y explicable por todas |
-| Reporte de visión (punto 5) | Valeria | COMPLETAR | Problema, propuesta de valor y objetivos redactados |
-| Especificación de requisitos (punto 6) | Valeria | COMPLETAR | Requisitos funcionales y no funcionales numerados |
-| Diagrama de Gantt (punto 7) | Isabella | COMPLETAR | Cronograma hasta la semana 16 |
-| Presupuesto (punto 7) | Isabella | COMPLETAR | Cálculo de horas y valor, explicable en la sustentación |
-| Actas de entendimiento, colaboración y responsabilidad | Maryerlis | COMPLETAR | Tres actas completas y firmadas por todas |
+| Crear y gestionar el repositorio de GitHub con las carpetas src, docs, images y data | Maryerlis (Líder) | 29 de septiembre | Repositorio con las 4 carpetas y el README con formato Markdown |
+| Integrantes y habilidades (puntos 1 y 2) | Jerhen (Responsable de documentación) | 29 de septiembre | Datos completos y coherentes en el README |
+| Nombre y logo del proyecto (punto 3) | Isabella (Imagen y presentación) | 29 de septiembre | Logo guardado en images/ y visible en el README |
+| Licencia del software (punto 4) | Valeria (Planeación y presupuesto) | 29 de septiembre | Licencia elegida, justificada y explicable por todas |
+| Reporte de visión (punto 5) | Jerhen (Responsable de documentación) | 29 de septiembre | Problema, propuesta de valor y objetivos redactados |
+| Especificación de requisitos (punto 6) | Jerhen (Responsable de documentación) | 29 de septiembre | Requisitos funcionales y no funcionales numerados |
+| Diagrama de Gantt (punto 7) | Valeria (Planeación y presupuesto) | 29 de septiembre | Cronograma hasta la semana 16 |
+| Presupuesto (punto 7) | Valeria (Planeación y presupuesto) | 29 de septiembre | Cálculo de horas y valor, explicable en la sustentación |
+| Actas de entendimiento, colaboración y responsabilidad | Maryerlis (Líder) | 30 de septiembre | Tres actas completas y firmadas por todas |
 | Preparar la sustentación | Todas | 30 de septiembre | Cada integrante explica cualquier parte del proyecto |
 
 ## 4. Tareas de la Entrega 2
 
 | Tarea | Responsable | Plazo | Criterio de cumplimiento |
 |-------|-------------|-------|--------------------------|
-| Módulo de login (3 intentos y bloqueo) | COMPLETAR | COMPLETAR | Funciona y muestra el tiempo de bloqueo |
-| validaciones.py | COMPLETAR | COMPLETAR | Valida todos los campos según el enunciado |
-| archivos.py (4 archivos planos y consecutivos) | COMPLETAR | COMPLETAR | IDs consecutivos e independientes por archivo |
-| Radicado de 120 caracteres | COMPLETAR | COMPLETAR | Todas las líneas miden 120 caracteres |
-| reportes.py (estadísticas) | COMPLETAR | COMPLETAR | Promedio de días de respuesta y las 5 estadísticas adicionales |
-| Dashboard de Power BI (mínimo 3 páginas) | COMPLETAR | COMPLETAR | Informe interactivo con las estadísticas pedidas |
-| Manual de usuario (carpeta docs) | COMPLETAR | COMPLETAR | Explica cómo usar el programa paso a paso |
-| Plan de versionado | COMPLETAR | COMPLETAR | Versiones y avances con fechas |
-| Preparar la sustentación final | Todas | COMPLETAR | Todas responden sobre el código |
+| Módulo de login (3 intentos y bloqueo) | Por definir | 18 de octubre | Funciona y muestra el tiempo de bloqueo |
+| validaciones.py | Por definir | 18 de octubre | Valida todos los campos según el enunciado |
+| archivos.py (4 archivos planos y consecutivos) | Por definir | 25 de octubre | IDs consecutivos e independientes por archivo |
+| Radicado de 120 caracteres | Por definir | 1 de noviembre | Todas las líneas miden 120 caracteres |
+| reportes.py (estadísticas) | Por definir | 8 de noviembre | Promedio de días de respuesta y las 5 estadísticas adicionales |
+| Dashboard de Power BI (mínimo 3 páginas) | Por definir | 15 de noviembre | Informe interactivo con las estadísticas pedidas |
+| Manual de usuario y plan de versionado | Por definir | 10 de noviembre | Explica cómo usar el programa paso a paso |
+| Preparar la sustentación final | Todas | 17 de noviembre | Todas responden sobre el código |
 
 ## 5. Compromisos de todas las integrantes
 
