@@ -79,5 +79,5 @@ Con su firma, las integrantes aceptan lo escrito en esta acta.
 |--------|-------|-------|
 | Maryerlis Herrera de Arcos (líder) |![alt text](image-5.png) |30 de septiembre de 2026 |
 | Valeria López Silva |![alt text](image-7.png) |30 de septiembre de 2026 |
-| Jehren Esther Padilla Villalba | |30 de septiembre de 2026 |
+| Jehren Esther Padilla Villalba |![alt text](image-8.png) |30 de septiembre de 2026 |
 | Isabella Barros Correa |![alt text](image-6.png) |30 de septiembre de 2026 |
