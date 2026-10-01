@@ -9,8 +9,12 @@
 | Nombre | Programa académico | Rol |
 |--------|--------------------|-----|
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 | Maryerlis Herrera De Arcos | Ingeniería Industrial | Líder del equipo |
+=======
+| Maryerlis Herrera de Arcos | Ingeniería Industrial | Líder del equipo y gestora del repositorio |
+>>>>>>> 592a2fa30bbca5080afada8595bdac32dfa0f2f2
 | Valeria López Silva | Ingeniería Industrial | Responsable de planeación y presupuesto |
 | Jehren Esther Padilla Villalba | Ingeniería Industrial | Responsable de documentación |
 | Isabella Barros Correa | Ingeniería Industrial | Responsable de imagen y presentación |
@@ -19,18 +23,22 @@
 ## 2. Vínculos académicos y descripción
 
 ### Maryerlis Herrera de Arcos (líder del equipo)
+
 - **Programa académico:** Ingeniería Industrial
 - **Habilidades y fortalezas:** buena para exponer y comunicarse con claridad. Maneja Excel, lo que ayuda con la parte de estadísticas del proyecto.
 
-### Isabella Barros Correa (Responsable de imagen y presentación)
+### Isabella Barros Correa
+
 - **Programa académico:** Ingeniería Industrial
 - **Habilidades y fortalezas:** se le facilita hacer cuentas y maneja Excel, por lo que puede apoyar el presupuesto y los cálculos. Es puntual cuando su disponibilidad se lo permite.
 
-### Valeria López Silva (Responsable de planeación y presupuesto)
+### Valeria López Silva
+
 - **Programa académico:** Ingeniería Industrial
 - **Habilidades y fortalezas:** buena para organizar y redactar, lo que aporta a la documentación. Se defiende en Excel y se comunica bien.
 
-### Jehren Esther Padilla Villalba (Responsable de documentación)
+### Jehren Esther Padilla Villalba
+
 - **Programa académico:** Ingeniería Industrial
 - **Habilidades y fortalezas:** se defiende en Excel, es puntual y expone bien.
 
@@ -48,9 +56,10 @@
 
 **Licencia elegida:** Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
 
-**Enlace:** https://creativecommons.org/licenses/by-nc-sa/4.0/
+**Enlace:** <https://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 **Justificación:**
+
 - **Atribución (BY):** cualquier persona que use o adapte Pawlogic debe reconocer al equipo autor.
 - **No comercial (NC):** el software se desarrolla con fines académicos y de apoyo a un movimiento estudiantil, por lo que no debe venderse.
 - **Compartir igual (SA):** las versiones modificadas deben publicarse bajo esta misma licencia, para que el trabajo siga siendo abierto.

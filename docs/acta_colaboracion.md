@@ -9,7 +9,6 @@
 ## 1. Integrantes
 
 | Nombre | Programa académico |
-|--------|--------------------|
 | Maryerlis Herrera de Arcos (líder) | Ingeniería Industrial |
 | Valeria López Silva (Responsable de Planeacion y presupuesto) | Ingeniería Industrial |
 | Jehren Esther Padilla Villalba (Responsable de Documentacion) | Ingeniería Industrial |
@@ -65,6 +64,7 @@ En cada reunión de seguimiento se revisa qué se hizo, qué falta y qué dificu
 - Una integrante solo puede ser excluida del grupo por incumplimiento grave y reiterado, después de haber recibido llamados de atención por escrito.
 - Solo se considera después de tres llamados de atención por escrito, y se informa al docente.
 - La decisión se toma entre todas las demás integrantes y el docente debe conocerla.
+- La decisión se toma entre todas las demás integrantes y se informa al docente, quien la debe conocer.
 
 ## 8. Revisión del acta
 
