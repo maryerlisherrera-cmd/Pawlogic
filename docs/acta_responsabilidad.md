@@ -29,15 +29,15 @@
 
 | Tarea | Responsable | Plazo | Criterio de cumplimiento |
 |-------|-------------|-------|--------------------------|
-| Crear y gestionar el repositorio de GitHub con las carpetas src, docs, images y data | Maryerlis | 29 de septiembre | Repositorio con las 4 carpetas y el README con formato Markdown |
-| Integrantes y habilidades (puntos 1 y 2) | Maryerlis | 29 de septiembre | Datos completos y coherentes en el README |
-| Nombre y logo del proyecto (punto 3) | Jehren | 29 de septiembre | Logo guardado en images/ y visible en el README |
-| Licencia del software (punto 4) | Valeria | 29 de septiembre | Licencia elegida, justificada y explicable por todas |
-| Reporte de visión (punto 5) | Valeria | 29 de septiembre | Problema, propuesta de valor y objetivos redactados |
-| Especificación de requisitos (punto 6) | Valeria | 29 de septiembre | Requisitos funcionales y no funcionales numerados |
-| Diagrama de Gantt (punto 7) | Isabella | 29 de septiembre | Cronograma hasta la semana 16 |
-| Presupuesto (punto 7) | Isabella | 29 de septiembre | Cálculo de horas y valor, explicable en la sustentación |
-| Actas de entendimiento, colaboración y responsabilidad | Maryerlis | 30 de septiembre | Tres actas completas y firmadas por todas |
+| Crear y gestionar el repositorio de GitHub con las carpetas src, docs, images y data | Maryerlis (Líder) | 29 de septiembre | Repositorio con las 4 carpetas y el README con formato Markdown |
+| Integrantes y habilidades (puntos 1 y 2) | Jerhen (Responsable de documentación) | 29 de septiembre | Datos completos y coherentes en el README |
+| Nombre y logo del proyecto (punto 3) | Isabella (Imagen y presentación) | 29 de septiembre | Logo guardado en images/ y visible en el README |
+| Licencia del software (punto 4) | Valeria (Planeación y presupuesto) | 29 de septiembre | Licencia elegida, justificada y explicable por todas |
+| Reporte de visión (punto 5) | Jerhen (Responsable de documentación) | 29 de septiembre | Problema, propuesta de valor y objetivos redactados |
+| Especificación de requisitos (punto 6) | Jerhen (Responsable de documentación) | 29 de septiembre | Requisitos funcionales y no funcionales numerados |
+| Diagrama de Gantt (punto 7) | Valeria (Planeación y presupuesto) | 29 de septiembre | Cronograma hasta la semana 16 |
+| Presupuesto (punto 7) | Valeria (Planeación y presupuesto) | 29 de septiembre | Cálculo de horas y valor, explicable en la sustentación |
+| Actas de entendimiento, colaboración y responsabilidad | Maryerlis (Líder) | 30 de septiembre | Tres actas completas y firmadas por todas |
 | Preparar la sustentación | Todas | 30 de septiembre | Cada integrante explica cualquier parte del proyecto |
 
 ## 4. Tareas de la Entrega 2
