@@ -3,8 +3,8 @@
 **Proyecto:** Pawlogic - Gestor de PQRS para MEPEGA
 **Curso:** Algoritmia y Programación
 **Docente:** Victor Hugo Mercado Ramos
-**Fecha de la reunión:** COMPLETAR
-**Lugar o medio de la reunión:** COMPLETAR
+**Fecha de la reunión:** *19 de septiembre de 2026
+**Lugar o medio de la reunión:** *WhatsApp (chat del grupo)
 
 ## 1. Integrantes presentes
 
@@ -38,10 +38,10 @@ Desarrollar en Python un gestor de PQRS por consola para el Movimiento Estudiant
 
 | Integrante | Qué espera del proyecto | Qué se compromete a aportar |
 |------------|-------------------------|-----------------------------|
-| Isabella Barros Correa | COMPLETAR | COMPLETAR |
-| Valeria López Silva | COMPLETAR | COMPLETAR |
-| Jehren Esther Padilla Villalba | COMPLETAR | COMPLETAR |
-| Maryerlis Herrera de Arcos | COMPLETAR | COMPLETAR |
+| Isabella Barros Correa | Aprender a programar y entender todo el proyecto | Cálculos, presupuesto y apoyo con Excel |
+| Valeria López Silva | Aprender a programar y entender todo el proyecto | Organización y redacción de la documentación |
+| Jehren Esther Padilla Villalba | Aprender a programar y entender todo el proyecto | Exposición, puntualidad y apoyo con Excel |
+| Maryerlis Herrera de Arcos | Cumplir las entregas y aprender a programar en Python | Coordinar el equipo, gestionar el repositorio y exponer |
 
 ## 6. Firmas
 
@@ -49,7 +49,7 @@ Con su firma, las integrantes confirman que participaron en la reunión y están
 
 | Nombre | Firma | Fecha |
 |--------|-------|-------|
-| Isabella Barros Correa | | |
-| Valeria López Silva | | |
-| Jehren Esther Padilla Villalba | | |
-| Maryerlis Herrera de Arcos | | |
+| Isabella Barros Correa |<img src="firma isabella.jpeg" width="100">|30 de septiembre de 2026 |
+| Valeria López Silva |<img src="firma valeria.png" width="100">|30 de septiembre de 2026 |
+| Jehren Esther Padilla Villalba | <img src="firma jehren.jpeg" width="100">|30 de septiembre de 2026 |
+| Maryerlis Herrera de Arcos |<img src="firma mayerlis.jpeg" width="100"> |30 de septiembre de 2026 |
