@@ -10,9 +10,9 @@
 | Nombre | Programa académico |
 |--------|--------------------|
 | Maryerlis Herrera de Arcos (líder) | Ingeniería Industrial |
-| Isabella Barros Correa | Ingeniería Industrial |
-| Valeria López Silva | Ingeniería Industrial |
-| Jehren Esther Padilla Villalba | Ingeniería Industrial |
+| Isabella Barros Correa (Responsable de imagen y presentación) | Ingeniería Industrial |
+| Valeria López Silva (Responsable de planeación y presupuesto) | Ingeniería Industrial |
+| Jehren Esther Padilla Villalba (responsable de documentación) | Ingeniería Industrial |
 
 ## 2. Metodología de trabajo
 
@@ -58,7 +58,6 @@
 
 - Una integrante solo puede ser excluida del grupo por incumplimiento grave y reiterado, después de haber recibido llamados de atención por escrito.
 - La decisión se toma entre todas las demás integrantes y se informa al docente, quien la debe conocer.
-- COMPLETAR: otras condiciones que acuerden.
 
 ## 8. Revisión del acta
 
