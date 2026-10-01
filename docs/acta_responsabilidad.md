@@ -10,9 +10,10 @@
 | Nombre | Programa académico | Rol en el equipo |
 |--------|--------------------|------------------|
 | Maryerlis Herrera de Arcos | Ingeniería Industrial | Líder del equipo |
-| Isabella Barros Correa | Ingeniería Industrial | COMPLETAR |
-| Valeria López Silva | Ingeniería Industrial | COMPLETAR |
-| Jehren Esther Padilla Villalba | Ingeniería Industrial | COMPLETAR |
+| Isabella Barros Correa | Ingeniería Industrial | Imagen y presentacion |
+|Valeria López Silva | Ingeniería Industrial | Planeacion y presupuesto |
+| Jehren Esther Padilla Villalba | Ingeniería Industrial | Documentacion | 
+
 
 ## 2. Fechas oficiales
 
@@ -74,7 +75,7 @@ Con su firma, cada integrante acepta las tareas y los plazos que le corresponden
 
 | Nombre | Firma | Fecha |
 |--------|-------|-------|
-| Maryerlis Herrera de Arcos (líder) | | |
-| Isabella Barros Correa | | |
-| Valeria López Silva | | |
-| Jehren Esther Padilla Villalba | | |
+| Maryerlis Herrera de Arcos (líder) |![alt text](image-4.png) | 30 de septiembre 2026 |
+| Isabella Barros Correa |![alt text](image-3.png) | 30 de septiembre 2026|
+| Valeria López Silva |![alt text](image-1.png) | 30 de septiembre 2026|
+| Jehren Esther Padilla Villalba |![alt text](image-2.png) |30 de septiembre 2026 |

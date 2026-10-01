@@ -10,9 +10,11 @@
 | Nombre | Programa académico |
 |--------|--------------------|
 | Maryerlis Herrera de Arcos (líder) | Ingeniería Industrial |
+<<<<<<< HEAD
 | Isabella Barros Correa (Responsable de imagen y presentación) | Ingeniería Industrial |
 | Valeria López Silva (Responsable de planeación y presupuesto) | Ingeniería Industrial |
 | Jehren Esther Padilla Villalba (responsable de documentación) | Ingeniería Industrial |
+
 
 ## 2. Metodología de trabajo
 
