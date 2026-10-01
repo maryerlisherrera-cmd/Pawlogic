@@ -19,6 +19,7 @@
 ## 2. Fechas oficiales
 
 | Evento | Fecha |
+|------|-------|
 | Entrega 1 (puntos 1 a 7) | 30 de septiembre de 2026 |
 | Sustentación de la Entrega 1 | 1 de octubre de 2026 |
 | Programa completo listo para revisión del docente | 11 de noviembre de 2026 |
