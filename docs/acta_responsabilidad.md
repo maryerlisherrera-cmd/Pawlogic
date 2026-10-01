@@ -44,15 +44,14 @@
 
 | Tarea | Responsable | Plazo | Criterio de cumplimiento |
 |-------|-------------|-------|--------------------------|
-| Módulo de login (3 intentos y bloqueo) | COMPLETAR | COMPLETAR | Funciona y muestra el tiempo de bloqueo |
-| validaciones.py | COMPLETAR | COMPLETAR | Valida todos los campos según el enunciado |
-| archivos.py (4 archivos planos y consecutivos) | COMPLETAR | COMPLETAR | IDs consecutivos e independientes por archivo |
-| Radicado de 120 caracteres | COMPLETAR | COMPLETAR | Todas las líneas miden 120 caracteres |
-| reportes.py (estadísticas) | COMPLETAR | COMPLETAR | Promedio de días de respuesta y las 5 estadísticas adicionales |
-| Dashboard de Power BI (mínimo 3 páginas) | COMPLETAR | COMPLETAR | Informe interactivo con las estadísticas pedidas |
-| Manual de usuario (carpeta docs) | COMPLETAR | COMPLETAR | Explica cómo usar el programa paso a paso |
-| Plan de versionado | COMPLETAR | COMPLETAR | Versiones y avances con fechas |
-| Preparar la sustentación final | Todas | COMPLETAR | Todas responden sobre el código |
+| Módulo de login (3 intentos y bloqueo) | Por definir | 18 de octubre | Funciona y muestra el tiempo de bloqueo |
+| validaciones.py | Por definir | 18 de octubre | Valida todos los campos según el enunciado |
+| archivos.py (4 archivos planos y consecutivos) | Por definir | 25 de octubre | IDs consecutivos e independientes por archivo |
+| Radicado de 120 caracteres | Por definir | 1 de noviembre | Todas las líneas miden 120 caracteres |
+| reportes.py (estadísticas) | Por definir | 8 de noviembre | Promedio de días de respuesta y las 5 estadísticas adicionales |
+| Dashboard de Power BI (mínimo 3 páginas) | Por definir | 15 de noviembre | Informe interactivo con las estadísticas pedidas |
+| Manual de usuario y plan de versionado | Por definir | 10 de noviembre | Explica cómo usar el programa paso a paso |
+| Preparar la sustentación final | Todas | 17 de noviembre | Todas responden sobre el código |
 
 ## 5. Compromisos de todas las integrantes
 
