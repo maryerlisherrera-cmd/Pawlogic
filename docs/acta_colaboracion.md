@@ -9,6 +9,7 @@
 ## 1. Integrantes
 
 | Nombre | Programa académico |
+|--------|--------------------|
 | Maryerlis Herrera de Arcos (líder) | Ingeniería Industrial |
 | Valeria López Silva (Responsable de Planeacion y presupuesto) | Ingeniería Industrial |
 | Jehren Esther Padilla Villalba (Responsable de Documentacion) | Ingeniería Industrial |
