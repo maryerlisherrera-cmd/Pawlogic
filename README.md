@@ -124,7 +124,7 @@ Reemplazar el registro manual de PQRS de MEPEGA por un sistema en Python, ordena
 | RNF-03 | Seguridad | El acceso está protegido con login obligatorio, límite de intentos y bloqueo temporal. La contraseña no se muestra al escribirla. |
 | RNF-04 | Integridad de datos | Ningún registro se guarda si un dato no cumple las validaciones, y no hay consecutivos repetidos. |
 | RNF-05 | Fiabilidad | Un dato incorrecto no cierra el programa: el sistema avisa y vuelve a pedirlo. |
-| RNF-06 | Compatibilidad | El programa corre en cualquier computador con Python 3 instalado, sin necesidad de internet. |
+| RNF-06 | Compatibilidad | El programa corre en cualquier computador con Python 3 y las librerías pandas y matplotlib instaladas, sin necesidad de internet. |
 | RNF-07 | Rendimiento | El sistema responde de forma inmediata con miles de registros por archivo. |
 | RNF-08 | Mantenibilidad | El código está comentado y el repositorio sigue la estructura src, docs, images y data. |
 | RNF-09 | Codificación | Los archivos usan UTF-8, para guardar bien tildes y la letra ñ. |
@@ -202,3 +202,11 @@ El proyecto no se paga en dinero sino en tiempo de práctica de formación. Cada
 | **Total** | **200** | | **$1.459.000** |
 
 Las horas de cada integrante pueden variar según su disponibilidad. Si cambian, el costo se recalcula como horas × $7.295.
+
+## Cómo ejecutar
+
+1. Instalar Python 3.
+2. Instalar las librerías: `pip install -r requirements.txt`
+3. Ejecutar el programa: `python src/main.py`
+
+Más información en el [manual de usuario](docs/manual_usuario.md) y en el [plan de versionado](docs/plan_versionado.md).
