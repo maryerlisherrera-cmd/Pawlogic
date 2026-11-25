@@ -1,0 +1,28 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                              PAWLOGIC - GESTOR DE PQRS                                               |
+|                   MEPEGA - Movimiento Estudiantil de Perritos y Gaticos - Universidad de Antioquia                   |
+|                                          COMPROBANTE DE RADICACIÓN DE PQRS                                           |
++------------------------------------------------- DATOS DEL RADICADO -------------------------------------------------+
+| Número de radicado        : PET-003001                                                                               |
+| ID de registro            : 003001                                                                                   |
+| Fecha y hora de radicación: 2026-11-25 09:27:16                                                                      |
+| Estado                    : Registrada                                                                               |
+| Fecha máxima de respuesta : 2026-12-25 09:27:16                                                                      |
+| Registrado por            : admin_udea                                                                               |
++----------------------------------------------- DATOS DEL SOLICITANTE ------------------------------------------------+
+| Nombre completo           : Carolina Gomez                                                                           |
+| Documento                 : CC 1020456789                                                                            |
+| Teléfono de contacto      : 3105551234 (Celular)                                                                     |
+| Correo electrónico        : carolina.gomez@udea.edu.co                                                               |
+| Dirección                 : N/A                                                                                      |
++--------------------------------------------------- CLASIFICACIÓN ----------------------------------------------------+
+| Tipo de solicitud         : Petición                                                                                 |
+| Canal de recepción        : Presencial                                                                               |
+| Tipo de mascota           : Perro                                                                                    |
+| Campus relacionado        : Campus Medellín - Ciudad Universitaria                                                   |
++------------------------------------------------------ RESUMEN -------------------------------------------------------+
+| Asunto o título           : jornada de vacunacion                                                                    |
++--------------------------------------------------- CERTIFICACIÓN ----------------------------------------------------+
+|                     Este comprobante certifica la información registrada en el sistema de PQRS.                      |
+|                                           Generado el 2026-11-25 09:29:42                                            |
++----------------------------------------------------------------------------------------------------------------------+
