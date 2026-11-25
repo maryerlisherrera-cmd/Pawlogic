@@ -9,8 +9,9 @@
 2. Ejecutar el comando:
    ```bash
    python src/main.py
+   ``` 
 
-   ## 3. Inicio de sesión (Login)
+## 3. Inicio de sesión (Login)
 - Al iniciar, el sistema solicita **Usuario** y **Contraseña** registrados en `data/Usuarios.txt` (ejemplo: `admin_udea`).
 - Por seguridad, si se ingresan credenciales incorrectas **3 veces seguidas**, el sistema bloquea temporalmente el acceso y muestra el tiempo de espera en pantalla.
 - Una vez autenticado, el usuario queda vinculado automáticamente a todas las PQRS que registre en esa sesión.
